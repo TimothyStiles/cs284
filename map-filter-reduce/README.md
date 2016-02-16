@@ -1,4 +1,8 @@
-A tutorial series about programming in clojure.
+This is an interactive exercise that covers mapping, filtering, and reducing 
+clojure data structures.
+
+To start the interactive exercise run <code>lein gorilla</code> from within
+this directory.
 
 # license
 Copyright 2016 Timothy S. Stiles
