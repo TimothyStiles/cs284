@@ -1,8 +1,7 @@
 # map-filter-reduce
 
-This is an interactive exercise that covers mapping, filtering, and reducing clojure data structures.
+This is an interactive exercise that covers mapping, filtering, and reducing clojure data structures. To start the interactive exercise run lein gorilla from within this directory.
 
-To start the interactive exercise run lein gorilla from within this directory.
 #Preview 
 ![Preview](https://github.com/TimothyStiles/cs284/blob/master/map-filter-reduce/preview.pdf)
 
