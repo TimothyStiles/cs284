@@ -1,4 +1,4 @@
-# anonymous-function
+# map-filter-reduce
 
 This is an interactive exercise that covers mapping, filtering, and reducing clojure data structures.
 
