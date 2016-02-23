@@ -1,4 +1,4 @@
-A tutorial series about programming in clojure.
+A tutorial series about programming in clojure for CS284 Evolutionary Computation. Each folder contains a project or markdown explaining or reviewing a certain topic. For code tutorials cd into the given tutorial directory, run <code>lein gorilla</code>, and open in your browser for an interactive gorilla repl.
 
 # license
 Copyright 2016 Timothy S. Stiles
