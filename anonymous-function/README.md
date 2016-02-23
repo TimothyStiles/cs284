@@ -4,7 +4,7 @@ This is an interactive exercise that covers mapping, filtering, and reducing clo
 
 To start the interactive exercise run lein gorilla from within this directory.
 #Preview 
-![Preview](https://github.com/TimothyStiles/cs284/anonymous-function/preview.pdf)
+![Preview](https://github.com/TimothyStiles/cs284/blob/master/map-filter-reduce/preview.pdf)
 
 # license
 Copyright 2016 Timothy S. Stiles
