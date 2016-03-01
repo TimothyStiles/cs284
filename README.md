@@ -1,10 +1,20 @@
-# A tutorial series about programming in clojure for CS284 Evolutionary Computation. 
+## A tutorial series about programming in clojure for CS284 Evolutionary Computation. 
 Each folder contains a project or markdown explaining or reviewing a certain topic. For code tutorials cd into the given tutorial directory, run <code>lein gorilla</code>, and open in your browser for an interactive gorilla repl.
 
-# Class Resources and Materials.
+## Class Resources and Materials.
 
 #Writing Clojure
 There a few tutorials that I have written here but I have found that the book [Clojure for the Brave and True by Daniel Higginbotham](http://www.braveclojure.com/) is particularly well written and freely available online. Supplementary code can also be [found on github here] (https://github.com/braveclojure/cftbat-code/). 
+
+Here's a list of clojure libraries that expand clojure's functionality into making music, image processing, computer vision, machine learning, numerical computing, genetic programming, and artificial life that I have some experience with. (Disclaimer: I have made minor contributions to two of the libraries listed here.)
+
+FunImage 
+Brevis
+Pucks
+Overtone
+CLJ-ML
+Core.matrix
+Clojush
 
 #Tooling
 Git and Source Version Control: A great book for getting familiar with git and version control is freely available through a creataive commons license is [Pro Git by Scott Chacon and Ben Straub] (http://git-scm.com/book/en/v2) and it's available in almost every format needed (pdf, mobi, epub, web, etc). It's a little lengthy but to get started one only really has to read the first three or four chapters. Expect to see a tutorial here in the coming weeks.
