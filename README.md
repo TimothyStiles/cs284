@@ -35,7 +35,7 @@ Text Editors and IDEs: emacs, vim, atom, eclipse, lightable, etc, etc, etc. Cloj
 
 Getting started with the cluster: Getting your code to run on the cluster takes a little bit of hard work to set up at first. If you do not have any experience with BASH I would recommend learning how to navigate on the command line before you try to run your code on Hampshire's high performance computing cluster. If you are interested in running your code on the cluster talk to Lee so that he can have your account set up and then meet with Ben or I to help walk you through getting your code to run. Here are some [instructions prepared by Andrew Zito](https://github.com/TimothyStiles/cs284/blob/master/documents/fly.pdf).
 
-[College Level Mathematics](http://aimath.org/textbooks/approved-textbooks/): A series of college level math textbooks that are freely licensed and good for referencing. Collected and supported by the American Institute of Mathematics and the National Science Foundation. You are not expected to get really deep into the math that you may see in some readings for this class but if you are curious most of the notation you will see is explained by one of these books.
+[College Level Mathematics](http://aimath.org/textbooks/approved-textbooks/): A series of college level math textbooks that are freely licensed and good for referencing. Collected and supported by the American Institute of Mathematics and the National Science Foundation. You are not expected to get really deep into the math that you may see in some readings for this class but if you are curious most of the notation you will see can be explained by one of these books.
 
 ## license
 Copyright 2016 Timothy S. Stiles
