@@ -1,31 +1,40 @@
-## A tutorial series about programming in clojure for CS284 Evolutionary Computation. 
+# A tutorial series about programming in clojure for CS284 Evolutionary Computation. 
 Each folder contains a project or markdown explaining or reviewing a certain topic. For code tutorials cd into the given tutorial directory, run <code>lein gorilla</code>, and open in your browser for an interactive gorilla repl.
 
-## Class Resources and Materials.
+# Class Resources and Materials.
 
-#Writing Clojure
+##Writing Clojure
 There a few tutorials that I have written here but I have found that the book [Clojure for the Brave and True by Daniel Higginbotham](http://www.braveclojure.com/) is particularly well written and freely available online. Supplementary code can also be [found on github here] (https://github.com/braveclojure/cftbat-code/). 
 
-Here's a list of clojure libraries that expand clojure's functionality into making music, image processing, computer vision, machine learning, numerical computing, genetic programming, and artificial life that I have some experience with. (Disclaimer: I have made minor contributions to two of the libraries listed here.)
+Here's a list of clojure libraries that expand clojure's functionality into making music, image processing, computer vision, machine learning, numerical computing, genetic programming, and artificial life that I have some experience with. (Disclaimer: I have made minor contributions to two of the libraries listed here.) It would be much easier to experiment with Evolutionary Computation without these libraries if you are new to clojure but if you feel compelled to work with any of these libraries for some reason or another here they are!
 
-FunImage 
-Brevis
-Pucks
-Overtone
-CLJ-ML
+[https://github.com/lspector/Clojush](Clojush): Lee's implementation of Push GP in Clojure. Heavily used in his research group and quite popular on github!
+
+[https://github.com/lspector/pucks](Pucks): Lee's 2D world of Pucks! An artificial life simulator based around little puck creatures.
+
+[https://github.com/kephale/brevis](Brevis): A 3D artificial life simulator developed by Hampshire Alumn Kyle Harrington.
+
+[https://github.com/funimage/funimage](FunImage): A functional image processing also developed by Kyle.
+
+[https://github.com/overtone/overtone](Overtone): Music generation library for clojure that I know some people in the class are already using.
+
 Core.matrix
-Clojush
+CLJ-ML
 
-#Tooling
-Git and Source Version Control: A great book for getting familiar with git and version control is freely available through a creataive commons license is [Pro Git by Scott Chacon and Ben Straub] (http://git-scm.com/book/en/v2) and it's available in almost every format needed (pdf, mobi, epub, web, etc). It's a little lengthy but to get started one only really has to read the first three or four chapters. Expect to see a tutorial here in the coming weeks.
+
+
+##Tooling and other resources
+Git and Source Version Control: A great book for getting familiar with git and version control  is [Pro Git by Scott Chacon and Ben Straub] (http://git-scm.com/book/en/v2) . The book is freely available through a creative commons license and it comes in almost every format needed (pdf, mobi, epub, web, etc). It's a little lengthy but to get started one only really has to read the first three or four chapters. Expect to see a tutorial on git here in the coming weeks.
 
 Linux Command Line BASH: [Another great free book on linux command line BASH by William E. Shotts, Jr.] (http://linuxcommand.org/tlcl.php)
 
-Text Editors and IDEs: Emacs, Vim, Atom, Eclipse, Lightable, etc, etc, etc. CLojure programmers are fond of Emacs because it was originally built for Lisp. I prefer emacs with vim bindings (evil mode) and highly suggest using Emacs, the gorilla repl, or counterclockwise for this class. All of you should already have a developing environment but if you are interested in setting up Emacs on your machine [chapter 2 of Clojure for the Brave and True] (http://www.braveclojure.com/basic-emacs/) does an excellent job of introducing Emacs as a clojure editor/ide.
+Text Editors and IDEs: Emacs, Vim, Atom, Eclipse, Lightable, etc, etc, etc. Clojure programmers are fond of Emacs because it was originally built for Lisp. I prefer emacs with vim bindings (evil mode) and highly suggest using Emacs, the gorilla repl, or counterclockwise for this class. All of you should already have a developing environment but if you are interested in setting up Emacs on your machine [chapter 2 of Clojure for the Brave and True] (http://www.braveclojure.com/basic-emacs/) does an excellent job of introducing Emacs as a clojure editor/ide.
 
-College Level Mathematics: [A series of college level math textbooks that are freely licensed and good for referencing collected and supported by the American Institute of Mathematics and the National Science Foundation] ( http://aimath.org/textbooks/approved-textbooks/)
+Getting started with the cluster: Getting your code to run on the cluster takes a little bit of hard work to set up at first. If you do not have any experience with BASH I would recommend learning how to navigate on the command line before you try to run your code on Hampshire's high performance computing cluster. If you are interested in running your code on the cluster talk to Lee so that he can have your account set up and then meet with Ben or I to help walk you through getting your code to run. Here are some instructions prepared by ()Andrew Zito
 
-# license
+College Level Mathematics: [A series of college level math textbooks that are freely licensed and good for referencing. Xollected and supported by the American Institute of Mathematics and the National Science Foundation] ( http://aimath.org/textbooks/approved-textbooks/)
+
+## license
 Copyright 2016 Timothy S. Stiles
 
    Licensed under the Apache License, Version 2.0 (the "License");
