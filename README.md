@@ -6,20 +6,21 @@ Each folder contains a project or markdown explaining or reviewing a certain top
 ##Writing Clojure
 There a few tutorials that I have written here but I have found that the book [Clojure for the Brave and True by Daniel Higginbotham](http://www.braveclojure.com/) is particularly well written and freely available online. Supplementary code can also be [found on github here] (https://github.com/braveclojure/cftbat-code/). 
 
-Here's a list of clojure libraries that expand clojure's functionality into making music, image processing, computer vision, machine learning, numerical computing, genetic programming, and artificial life that I have some experience with. (Disclaimer: I have made minor contributions to two of the libraries listed here.) It would be much easier to experiment with Evolutionary Computation without these libraries if you are new to clojure but if you feel compelled to work with any of these libraries for some reason or another here they are!
+Here's a list of clojure libraries that expand clojure's functionality into making music, image processing, computer vision, machine learning, numerical computing, genetic programming, and artificial life that I have some experience with. (Disclaimer: I have made minor contributions to two of the libraries listed here.) If you are new to clojure it would be much easier to experiment with Evolutionary Computation without these libraries  but if you feel compelled to work with any of these libraries for some reason or another here they are!
 
-[https://github.com/lspector/Clojush](Clojush): Lee's implementation of Push GP in Clojure. Heavily used in his research group and quite popular on github!
+[Clojush](https://github.com/lspector/Clojush): Lee's implementation of Push GP in Clojure. Heavily used in his research group and quite popular on github!
 
-[https://github.com/lspector/pucks](Pucks): Lee's 2D world of Pucks! An artificial life simulator based around little puck creatures.
+[Pucks](https://github.com/lspector/pucks): Lee's 2D world of Pucks! An artificial life simulator based around little puck creatures.
 
-[https://github.com/kephale/brevis](Brevis): A 3D artificial life simulator developed by Hampshire Alumn Kyle Harrington.
+[Brevis](https://github.com/kephale/brevis): A 3D artificial life simulator developed by Hampshire Alumn Kyle Harrington. His blog contains a [tutorial on creating swarms](http://computational.life).
 
-[https://github.com/funimage/funimage](FunImage): A functional image processing also developed by Kyle.
+[FunImage](https://github.com/funimage/funimage): A functional image processing library also developed by Kyle that I am very familiar with.
 
-[https://github.com/overtone/overtone](Overtone): Music generation library for clojure that I know some people in the class are already using.
+[Overtone](https://github.com/overtone/overtone): Music generation library for clojure that I know some people in the class are already using.
 
-Core.matrix
-CLJ-ML
+[Core.matrix](https://github.com/mikera/core.matrix): Matrix library that uses native clojure data structures.
+
+[clj-ml](https://github.com/joshuaeckroth/clj-ml): A somewhat non-idiomatic clojure library for machine learning. I would suggest that most stay away from it but someone could find it useful.
 
 
 
