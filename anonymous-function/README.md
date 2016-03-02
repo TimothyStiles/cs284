@@ -1,36 +1,22 @@
 # anonymous-function
 
-FIXME: description
+This is an interactive exercise that covers mapping, filtering, and reducing clojure data structures.
 
-## Installation
+To start the interactive exercise run lein gorilla from within this directory.
+#Preview 
+![Preview](https://github.com/TimothyStiles/cs284/blob/master/anonymous-function/preview.pdf)
 
-Download from http://example.com/FIXME.
+# license
+Copyright 2016 Timothy S. Stiles
 
-## Usage
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
 
-FIXME: explanation
+       http://www.apache.org/licenses/LICENSE-2.0
 
-    $ java -jar anonymous-function-0.1.0-standalone.jar [args]
-
-## Options
-
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2016 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
