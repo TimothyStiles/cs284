@@ -24,6 +24,8 @@ Here's a list of clojure libraries that expand clojure's functionality into maki
 
 [clj-ml](https://github.com/joshuaeckroth/clj-ml): A somewhat non-idiomatic clojure library for machine learning. I would suggest that most stay away from it but someone could find it useful.
 
+[spectre](https://github.com/nathanmarz/specter): Lee suggested map manipulating library. 
+
 
 
 ##Tooling and other resources
