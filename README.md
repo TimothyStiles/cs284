@@ -24,7 +24,11 @@ Here's a list of clojure libraries that expand clojure's functionality into maki
 
 [clj-ml](https://github.com/joshuaeckroth/clj-ml): A somewhat non-idiomatic clojure library for machine learning. I would suggest that most stay away from it but someone could find it useful.
 
-[spectre](https://github.com/nathanmarz/specter): Lee suggested map manipulating library. 
+[spectre](https://github.com/nathanmarz/specter): Lee suggested map manipulating library. Tutorial coming in near future.
+
+[Quil](https://github.com/quil/quil): Processing inspired clojure library for 2D animations. Lee's pucks library uses it to render.
+
+[Geom](https://github.com/thi-ng/geom) A relatively new geometric processing library in clojure.
 
 
 
