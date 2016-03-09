@@ -14,21 +14,21 @@ Most of you linux users should be pretty familiar with the command line. To inst
 
 Debian, Ubuntu, and Linux Mint users:
 
-<code> sudo apt-get git </code>
+<code>sudo apt-get git</code>
 
 
 Linux Standard Base and Red Hat Enterprise users:
 
-<code> sudo yum install git </code>
+<code>sudo yum install git</code>
 
 
 Arch Linux users:
 
-<code> sudo pacman -S git </code>
+<code>sudo pacman -S git</code>
 
 After your package manager has installed git check to see if the most recent version has been installed. (At least Git 2.0)
 
-<code> git --version </code>
+<code>git --version</code>
 
 ## Mac OSX users
 
@@ -36,16 +36,15 @@ So Mac OSX has a handy little package manager called [homebrew](http://brew.sh/)
 
 Installing Homebrew:
 
-<code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)
- </code>
+<code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)</code>
 
 Installing Git:
 
-<code>brew install git </code>
+<code>brew install git</code>
 
 After your package manager has installed git check to see if the most recent version has been installed. (At least Git 2.0)
 
-<code> git --version </code>
+<code>git --version</code>
 
 ## Windows users
 
