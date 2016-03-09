@@ -14,7 +14,7 @@ Most of you linux users should be pretty familiar with the command line. To inst
 
 Debian, Ubuntu, and Linux Mint users:
 
-<code>sudo apt-get git</code>
+<code>sudo apt-get install git</code>
 
 
 Linux Standard Base and Red Hat Enterprise users:
@@ -47,6 +47,8 @@ After your package manager has installed git check to see if the most recent ver
 <code>git --version</code>
 
 ## Windows users
+
+Follow the download and use instructions [here] (https://git-for-windows.github.io/)
 
 
 
