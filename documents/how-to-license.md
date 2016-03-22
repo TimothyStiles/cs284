@@ -14,7 +14,7 @@ You can do anything you want with this code. Just don't sue the author. An extre
 
 [MIT License] (https://opensource.org/licenses/MIT)
 
-[faq] ()
+[faq] (https://tldrlegal.com/license/mit-license)
 
 ##Apache Version 2.0
 You can do anything you want with this code. Just don't patent the process the code describes or sue the author. My personal favorite and you almost
@@ -22,17 +22,17 @@ always see my code with this license.
 
 [Apache License] (http://www.apache.org/licenses/LICENSE-2.0.txt)
 
-[faq] ()
+[faq] (http://www.apache.org/foundation/license-faq.html)
 
 ##Gnu Public License 2.0 & 3.0 (GPL)
 You can do anything you want with this code on your own computer. If you modify and share the code under this license publicly
-you must submit your changes to the original author of that code. Linux, git, and many others are licensed under the GPL.
-
-[Gnu Public License V2] (http://www.gnu.org/licenses/gpl-2.0.txt)
+you must submit your changes to the original author of that code. Also you can not change the license on your copy of the original code. Linux, git, and many others are licensed under the GPL.
 
 [Gnu Public License V3] (http://www.gnu.org/licenses/gpl-3.0.txt)
 
-[faq] ()
+[Gnu Public License V2] (http://www.gnu.org/licenses/gpl-2.0.txt)
+
+[faq] (https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3))
 
 ##Affero Gnu Public License (AGPL)
 If you modify or share this code as part of a networked system (think servers computing for website) then you must submit your
@@ -51,9 +51,9 @@ The license that the clojure community holds dear.
 
 ##Free-BSD 2 Clause
 
-[]
+[BSD 2-clause]
 
-[faq] ()
+[faq] (https://tldrlegal.com/license/bsd-2-clause-license-%28freebsd%29)
 
 ##Free-BSD 3 Clause
 
