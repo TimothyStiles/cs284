@@ -48,8 +48,3 @@
 
 ;saving the result of a single convolution.
 (save-imp (pokemutate) "resources/output/poke-mutate.png")
-
-(defn -main
-  "I don't do a whole lot ... yet."
-  [& args]
-  (println "Hello, World!"))
