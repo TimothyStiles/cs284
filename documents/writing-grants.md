@@ -30,7 +30,7 @@ the argument that your project is relevant to the purpose of the grant.
 
 For example the Culture, Brain, and Development grant requires you to relate your project to literally to two of the three themes of culture, brain, and development.
 For my applications I explained how the automated image analysis of endothelial cell morphology could be trivially adapted to analyze neuron morphology
-and made the strong connection that understanding how the vascular developed related to human development.
+and made the strong connection that understanding how the vascular system developed related to human development.
 
 Other grants require other approaches. The best thing to do is to get a feel for what each grant is trying to accomplish so that you can show
 them that what you are doing matters to them. Each organization is not going to do the research for you. You need to make very clear that
