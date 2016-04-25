@@ -7,7 +7,7 @@ TL;DR As an undergrad with little research experience you can work in any lab if
 
 As a student you can email almost any professor anywhere and say that you want to work with them and chances are you almost always be able to. Research scientists always need extra hands about the lab but not all are able to pay for them.
 
-Now this tutorial would suck if I told you that if you want a career in research you have to be willing to work for free. 
+Now this tutorial would be awful if I told you that if you want a career in research you have to be willing to work for free. 
 Don't worry. Even if some professors can't pay you out of their own pockets there are a number of student grants and research experiences for undergraduates (REUs)
 that can cover your rent, personal expenses, and give you a little bit of spending money for being so excellent (which you are!).
 In this post I'm going to cover how you can approach a professor about working with them for class credit, pay, a summer experience, or all three and then
