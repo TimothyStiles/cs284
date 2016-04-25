@@ -2,7 +2,7 @@
 With guest advice from Wren Saylor
 
 
-TL;DR You can work in any lab if you are willing to work for free, but if you want to be paid you may need to find some grants.
+TL;DR As an undergrad with little research experience you can work in any lab if you are willing to work for free, but if you want to be paid you may need to find some grants.
 ## Intro
 
 As a student you can email almost any professor anywhere and say that you want to work with them and chances are you almost always be able to. Research scientists always need extra hands about the lab but not all are able to pay for them.
