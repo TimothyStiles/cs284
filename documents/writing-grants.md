@@ -23,6 +23,8 @@ Proposed Budget (as spreadsheet)
 Your personal info, CV, and letters will almost always be the same for each grant that you apply to. Dependent on what expenses the
 grant actually covers you should adjust your budget accordingly!
 
+Also, do not wait until the last minute to get your letters of support and recommendation. It is polite to give everyone you have asked for recommendations from a couple of weeks to get back to you. (Note: Lee writes awesome letters of recomendation.)
+
 What varies the most between your grant applications will be the project statement. Every grant wants it done differently but this is usually where you make
 the argument that your project is relevant to the purpose of the grant.
 
