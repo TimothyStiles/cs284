@@ -1,9 +1,6 @@
 (ns image-processing.core
   (:use [funimage imp]
         [funimage.imp.calculator])
-  #_(:require [funimage imp :as imp]
-            [funimage project :as proj]
-            [funimage util :as util])
   (:gen-class))
 
 ; This tutorial is a little more advanced than the others that I have written for this
@@ -33,23 +30,18 @@
   []
   (apply imp-subtract (repeatedly 2 #(open-imp (rand-nth pokedex)))))
 
-;saves example output
-(save-imp (pokediff) "resources/output/rand-pokediff.png")
-
 (defn random-kernel
-  "generates a random filter that can be used to transform an image like an anonymous function."
+  "generates a random kernel/filter that can be used to transform an image like an anonymous function."
   [width]
   (float-array (repeatedly (* width width) #(* (rand 2) (rand-nth (range -10 10))))))
 
 (defn pokemutate
-  "opens an image and applies a random kernel to it."
+  "opens an image and applies a random 11 X 11 kernel to it."
   []
-  (convolve (open-imp (rand-nth pokedex)) (random-kernel 3) 3 3))
-
-;saving the result of a single convolution.
-(save-imp (pokemutate) "resources/output/poke-mutate.png")
+  (convolve (open-imp (rand-nth pokedex)) (random-kernel 11) 11 11))
 
 (defn -main
-  "I don't do a whole lot ... yet."
+ "Calls pokediff and pokemutate which take no arguments and write their outputs to file." 
   [& args]
-  (println "Hello, World!"))
+  (do (save-imp (pokediff) "resources/output/poke-diff.png")
+      (save-imp (pokemutate) "resources/output/poke-mutate.png")))
