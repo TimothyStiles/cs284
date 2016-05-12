@@ -5,10 +5,10 @@ A simple tutorial to get students started with image processing in Clojure.
 ![Mutated Pokemon](https://github.com/TimothyStiles/cs284/blob/master/image-processing/resources/output/poke-mutate.png )
 
 ## Install 
-<code> git clone https://github.com/TimothyStiles/cs284.git </code>
+<code>git clone https://github.com/TimothyStiles/cs284.git</code>
 
 ## Usage
-Open src/image_processing/core.clj in your favorite text editor and load the namespace into a clojure repl.
+Open <code>image-processing/src/image_processing/core.clj</code> in your favorite text editor and load the namespace into a clojure repl.
 Follow along as I demonstrate a couple of key functions in image processing and then try to write some
 interesting image processing code of your own using the resources listed in the tutorial!
 
