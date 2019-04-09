@@ -5,7 +5,7 @@ Each folder contains a project or markdown explaining or reviewing a certain top
 
 Here's a general rundown on coding resources available to the class. Lee already has a pretty great list of resources on the class moodle that cover coding and Evo Comp but I am hoping that this becomes a list of resources that students add to and share with each other. If you have something you want to add here let me know or just send a pull request!
 
-##Writing Clojure
+## Writing Clojure
 There a few tutorials that I have written here but I have found that the book [Clojure for the Brave and True by Daniel Higginbotham](http://www.braveclojure.com/) is particularly well written and freely available online. Supplementary code can also be [found on github here] (https://github.com/braveclojure/cftbat-code/). 
 
 Here's a list of clojure libraries that expand clojure's functionality into making music, image processing, computer vision, machine learning, numerical computing, genetic programming, and artificial life that I have some experience with. (Disclaimer: I have made minor contributions to two of the libraries listed here.) If you are new to clojure **it would be much easier to experiment with Evolutionary Computation without these libraries** but if you feel compelled to work with any of these libraries for some reason or another here they are. Also, if you use a library that you think would be useful to the class let me know and I will add it to the list!
